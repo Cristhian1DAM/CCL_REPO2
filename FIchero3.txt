@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 soy el fichero 3 local
+=======
+soy el fichero 3 remoto
+>>>>>>> 70442df4b71534f055e2c69d940fb26ebf995f29
